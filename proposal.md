@@ -1,5 +1,5 @@
 # Policy Proposal: Responding to AI’s Impact on the Labour Market
-** Prepe]ared for:** Deputy Secretary, Employment & Skills
+** Prepared for:** Deputy Secretary, Employment & Skills
 
 # Summary 
 Artificial intelligence (AI) is rapidly transforming labour markets by automating routine tasks, augmenting skilled work, and reshaping industrial structures. Evidence shows that while AI can boost productivity and create new roles, it also risks job displacement, wage polarization, and widening inequality—particularly for routine and mid-skill occupations. This proposal outlines a targeted policy response combining reskilling, labour-market adjustment support, and regulatory frameworks for data and competition.Three policy options are evaluated:
@@ -8,7 +8,46 @@ Artificial intelligence (AI) is rapidly transforming labour markets by automatin
 AI is altering the nature of work through three primary channels: automation, augmentation, and task reallocation. Advances in machine learning and generative AI enable machines to perform cognitive tasks previously reserved for humans, including data analysis, customer service, and content generation (Autor, 2022).
 Unlike earlier technological shifts, AI affects both routine manual and routine cognitive jobs, increasing exposure across sectors such as finance, logistics, and professional services. At the same time, AI complements high-skill workers by enhancing productivity, leading to increased demand for analytical, digital, and interpersonal skills (OECD, 2023).
 The key policy challenge is managing this transition: ensuring displaced workers can move into emerging roles, preventing long-term unemployment, and maintaining wage growth. Without intervention, labour markets risk increased inequality and structural unemployment, particularly in middle-income economies transitioning toward knowledge-based industries.
+# Analysis of Impacts
 
+
+## 1. Employment Effects
+
+AI has a dual impact: job destruction and job creation. Studies estimate that up to 14% of jobs in OECD countries are highly automatable, while another 32% face significant task changes (OECD, 2019). However, historical evidence suggests technology also creates new occupations, particularly in digital services and AI-related industries.
+
+The net effect depends on the speed of adjustment. Short-term displacement may exceed job creation, leading to transitional unemployment. Workers in clerical, administrative, and manufacturing roles are most vulnerable. Emerging evidence also suggests that younger workers may adapt more quickly, while older workers face longer unemployment durations due to skill obsolescence (OECD, 2023). This creates generational divides in employment outcomes.
+
+## 2. Task Transformation
+
+AI primarily changes tasks rather than entire jobs. Routine tasks are automated, while non-routine tasks—such as problem-solving, creativity, and interpersonal communication—become more valuable (Autor, 2022).
+
+This leads to job redesign, where workers must adapt to hybrid roles requiring both technical and soft skills. Firms increasingly demand “AI-complementary skills,” including data literacy and critical thinking. Additionally, task fragmentation is increasing, with firms unbundling jobs into smaller components that can be automated or outsourced. This may reduce job stability and increase the prevalence of gig or contract-based work arrangements.
+
+## 3. Wage Effects
+
+AI contributes to wage polarization:
+	•	High-skilled workers benefit from productivity gains and higher wages.
+	•	Low-skilled service jobs remain relatively stable but low-paid.
+	•	Middle-skilled workers face wage stagnation or decline due to automation.
+
+Research shows that workers exposed to AI experience divergent wage outcomes depending on their ability to adapt (Acemoglu & Restrepo, 2020). There is also evidence that firms adopting AI capture a larger share of productivity gains, reducing labour’s share of income. This shift may weaken collective bargaining power and contribute to rising income inequality over time.
+
+## 4. Industrial Structure
+
+AI accelerates industry concentration, as large firms with access to data and computing resources gain competitive advantages. This may reduce competition and limit job creation in smaller firms.
+
+Simultaneously, new sectors—such as AI services, data analytics, and digital platforms—expand rapidly, reshaping the economic landscape. Platform-based business models further concentrate market power by leveraging network effects, making it difficult for new entrants to compete. This can slow job creation despite overall productivity growth.
+
+## 5. Distributional and Equity Impacts
+
+AI disproportionately affects:
+	•	Low- and middle-income workers (higher automation risk)
+	•	Regions dependent on routine industries
+	•	Workers with limited access to education and training
+
+Without policy intervention, AI may widen income inequality and reduce social mobility. Gender and demographic disparities may also emerge, as occupations with higher female participation (e.g. administrative roles) face greater automation exposure, while access to reskilling opportunities remains uneven across socio-economic groups.
+
+#
 
 
 # References 
