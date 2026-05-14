@@ -145,16 +145,16 @@ A combined strategy is necessary to address both short-term disruption and long-
 
 # 	Risks & Mitigations
 
-## Risk 1: Skill Mismatch Persists
+Risk 1: Skill Mismatch Persists
 	•	Mitigation: Continuous updating of training programs based on labour market data
 
-## Risk 2: Low Participation in Training
+Risk 2: Low Participation in Training
 	•	Mitigation: Financial incentives and flexible delivery (online, part-time)
 
-## Risk 3: Inequality Increases
+ Risk 3: Inequality Increases
 	•	Mitigation: Targeted support for vulnerable groups and regions
 
-## Risk 4: Market Concentration
+ Risk 4: Market Concentration
 	•	Mitigation: Strong enforcement of competition laws and data access policies
 
 
