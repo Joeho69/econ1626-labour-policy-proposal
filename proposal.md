@@ -98,15 +98,15 @@ Introduce regulations ensuring fair access to data, preventing monopolies, and p
 A combined strategy is necessary to address both short-term disruption and long-term structural change.
 
 ## Key Components
-	1.	AI Skills Accelerator Program
+### 1.	AI Skills Accelerator Program
 	•	Subsidised training in digital, analytical, and soft skills
 	•	Partnerships with universities and private providers
 	•	Focus on micro-credentials and flexible learning
-	2.	Labour Transition Support System
+### 2.	Labour Transition Support System
 	•	Wage insurance (up to 12 months)
 	•	Career counselling and job-matching services
 	•	Mobility support for workers relocating across regions
-	3.	AI and Data Policy Framework
+### 3.	AI and Data Policy Framework
 	•	Promote data-sharing standards
 	•	Strengthen competition laws
 	•	Encourage SME adoption of AI
@@ -141,6 +141,23 @@ A combined strategy is necessary to address both short-term disruption and long-
 	•	Participation in training programs
 	•	AI adoption rates among SMEs
 	•	Reduction in regional employment disparities
+
+
+# 	Risks & Mitigations
+
+## Risk 1: Skill Mismatch Persists
+	•	Mitigation: Continuous updating of training programs based on labour market data
+
+## Risk 2: Low Participation in Training
+	•	Mitigation: Financial incentives and flexible delivery (online, part-time)
+
+## Risk 3: Inequality Increases
+	•	Mitigation: Targeted support for vulnerable groups and regions
+
+## Risk 4: Market Concentration
+	•	Mitigation: Strong enforcement of competition laws and data access policies
+
+
 
 
 
