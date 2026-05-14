@@ -47,7 +47,53 @@ AI disproportionately affects:
 
 Without policy intervention, AI may widen income inequality and reduce social mobility. Gender and demographic disparities may also emerge, as occupations with higher female participation (e.g. administrative roles) face greater automation exposure, while access to reskilling opportunities remains uneven across socio-economic groups.
 
+# Policy Options and Evaluation
+
+## Option 1: National Reskilling and Lifelong Learning System
+
+### Description:
+Develop a coordinated system offering subsidised training, micro-credentials, and industry-aligned programs focused on digital and AI-related skills.
+
+### Evaluation:
+	•	Effectiveness: High—addresses root cause of skill mismatch
+	•	Equity: Strong—can target vulnerable groups
+	•	Feasibility: Moderate—requires coordination across institutions
+	•	Cost: High initial investment
+
+### Evidence: Countries with strong training systems (e.g., Germany) show better labour transitions during technological change (OECD, 2023).
+
+
+
+## Option 2: Wage Insurance and Transition Support
+
+### Description:
+Provide temporary income support, wage insurance, and job placement services for displaced workers.
+
+### Evaluation:
+	•	Effectiveness: Moderate—supports short-term adjustment
+	•	Equity: High—protects vulnerable workers
+	•	Feasibility: High—can build on existing welfare systems
+	•	Cost: Moderate
+
+### Evidence: Wage insurance programs reduce income shocks and encourage re-employment (Autor et al., 2021).
+
+
+
+## Option 3: AI Governance and Competition Policy Reform
+
+### Description:
+Introduce regulations ensuring fair access to data, preventing monopolies, and promoting innovation.
+
+### Evaluation:
+	•	Effectiveness: High—supports long-term job creation
+	•	Equity: Moderate—indirect benefits
+	•	Feasibility: Moderate—requires legal reforms
+	•	Cost: Low to moderate
+
+### Evidence: Strong competition policy prevents market concentration and fosters innovation-led employment growth (Acemoglu & Restrepo, 2020).
 #
+
+
 
 
 # References 
